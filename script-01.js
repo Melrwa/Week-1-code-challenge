@@ -9,8 +9,12 @@ if (marks) {
         alert("Your grade is C");
     } else if (grade >= 40) {
         alert("Your grade is D");
-    } else {
+    } else if (grade<40){
         alert("Your grade is E");
+    }else {
+        alert("Invalid value")
+    }   
     }
-};
+    
+
 
