@@ -21,7 +21,7 @@ Node.js
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/Melrwa/Week-1-code-challenge.git
 
 ```
 
